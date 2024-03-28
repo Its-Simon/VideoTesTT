@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     console.log("DOM fully loaded and parsed");
 
     const APP_ID = "e7fa4f9cf0074bc78b5c416ce71b13a5";
-    const TOKEN = "007eJxTYFh/j/OPwP51S9uOmAmmx4vN3mS6oVd8ZYXpjL9+WeKtxg4KDKnmaYkmaZbJaQYG5iZJyeYWSabJJoZmyanmhkmGxommvWdY0xoCGRn8qz8zMEIhiM/GUJBTnl+UzcAAAGl4H9c=";
+    const TOKEN = "007eJxTYPDxubf+SVj53FqjOec5PQs232SZyrvzwotq5415S14WtwcoMKSapyWapFkmpxkYmJskJZtbJJkmmxiaJaeaGyYZGiea2p5jTWsIZGSYa5/LwsgAgSA+O0NBTlV5flE2AwMACNMhkQ==";
     const CHANNEL_NAME = "plzwork";
 
     const client = AgoraRTC.createClient({ mode: 'rtc', codec: 'vp8' });
